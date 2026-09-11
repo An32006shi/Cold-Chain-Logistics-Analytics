@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Executive Narrative & Industry Impact
+## 📌 Executive Summary & Industry Impact
 
 In temperature-controlled logistics, preserving cargo integrity during long-haul highway transit is a mission-critical operational challenge:
 - **Brewery Cold-Chain (AB InBev Portfolio)**: Draft keg beer and premium lagers (Budweiser, Corona, Stella Artois) are biologically active and chemically fragile. Exposure to temperatures $>8^\circ\text{C}$ initiates accelerated oxidative staling (cardboard off-flavor via *trans-2-nonenal*) and colloidal hazing. Flash spikes above $>15^\circ\text{C}$ ruin carbonation retention and batch stability.
@@ -92,7 +92,6 @@ cold_chain_logistics_analytics/
 ├── app.py                               # Interactive Streamlit Executive Command Center
 ├── run_pipeline.py                      # One-click end-to-end pipeline execution runner
 ├── POWER_BI_DASHBOARD_GUIDE.md          # Step-by-step Power BI DAX & visual layout guide
-├── INTERVIEW_TALKING_POINTS.md          # AB InBev/FMCG interview narrative, resume bullets & FAQs
 ├── requirements.txt                     # Project dependencies
 └── README.md                            # Comprehensive documentation
 ```
@@ -105,7 +104,7 @@ cold_chain_logistics_analytics/
 Clone the repository and install required packages:
 ```bash
 git clone https://github.com/An32006shi/Cold-Chain-Logistics-Analytics.git
-cd cold-chain-logistics-analytics
+cd Cold-Chain-Logistics-Analytics
 pip install -r requirements.txt
 ```
 
@@ -190,6 +189,7 @@ LIMIT 25;
 
 ---
 
-
-
-
+## 👤 Author & Contact
+- **Author**: Anshika Gupta
+- **GitHub**: [@An32006shi](https://github.com/An32006shi)
+- **Domain Focus**: Supply Chain Analytics, Cold-Chain Telemetry, FMCG Operations

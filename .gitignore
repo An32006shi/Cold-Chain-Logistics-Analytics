@@ -19,3 +19,7 @@ ENV/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Private Interview & Prep Notes (Local only)
+INTERVIEW_TALKING_POINTS.md
+*interview*.md
