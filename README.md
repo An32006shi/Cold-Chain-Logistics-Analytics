@@ -190,17 +190,6 @@ LIMIT 25;
 
 ---
 
-## 📝 LaTeX Resume Bullets (Overleaf Ready)
 
-```latex
-\resumeItem{\textbf{\href{https://github.com/An32006shi/Cold-Chain-Logistics-Analytics}{Predictive Logistics \& Thermal Excursion Analytics in Cold-Chain Operations}} $|$ \emph{Python, SQL (SQLite), Scikit-Learn, Streamlit, Power BI}}
-\resumeItem{Engineered an enterprise cold-chain analytics engine querying 1,200+ multi-cargo telemetry records and 3,400+ waypoint readings in \textbf{SQL}, implementing \textbf{LAG() window functions} to detect consecutive thermal drift spikes ($\Delta T \ge 2.5^\circ\text{C}$) and ranking 3PL carrier OTIF compliance with \textbf{DENSE\_RANK()}.}
-\resumeItem{Developed a production \textbf{Gradient Boosting Classifier} (Scikit-Learn) with domain feature engineering (Mean Kinetic Temperature, Compressor Vibration RMS, Door Breach Rates), achieving \textbf{0.9767 ROC-AUC} and 93.3\% accuracy to predict product degradation 6+ hours before gate arrival.}
-\resumeItem{Built an interactive \textbf{Streamlit Executive Command Center} featuring real-time What-If scenario simulations, thermal degradation heatmaps, and pre-configured \textbf{Power BI DAX measures} tracking \$15.2M in inventory at risk.}
-```
 
----
 
-## 👥 Authors & Contact
-- **Project Lead**: Antigravity Operations Analytics
-- **Domain Focus**: FMCG Cold-Chain Logistics, Brewery Preservation (AB InBev Portfolio), IoT Telematics.
