@@ -1,0 +1,5 @@
+Route_Type,Total_Shipments,Avg_Distance_KM,Avg_Ambient_Temp_C,Avg_Reefer_Internal_Temp_C,Avg_Excursion_Minutes,Total_Door_Open_Events,Degraded_Shipments,Spoilage_Rate_Pct,Financial_Loss_At_Risk_USD
+Mid Haul,531,494.8,33.71,1.33,67.4,2165,103,19.4,6602580.3
+Long Haul,400,807.8,34.24,0.82,64.6,1650,71,17.75,5339490.08
+Cross-Country,168,1143.3,33.66,1.29,62.6,734,29,17.26,2408146.68
+Short Haul,101,225.0,34.59,2.06,64.2,367,15,14.85,846283.96

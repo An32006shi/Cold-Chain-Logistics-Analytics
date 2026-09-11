@@ -1,0 +1,67 @@
+{
+    "model_type": "GradientBoostingClassifier",
+    "n_estimators": 120,
+    "learning_rate": 0.08,
+    "max_depth": 4,
+    "metrics": {
+        "accuracy": 0.9333,
+        "precision": 0.8333,
+        "recall": 0.7955,
+        "f1_score": 0.814,
+        "roc_auc": 0.9767,
+        "confusion_matrix": [
+            [
+                189,
+                7
+            ],
+            [
+                9,
+                35
+            ]
+        ]
+    },
+    "feature_names": [
+        "Reefer_Internal_Temp_C",
+        "Reefer_Max_Internal_Temp_C",
+        "Thermal_Excursion_Minutes",
+        "Mean_Kinetic_Temp_C",
+        "Ambient_Peak_Temp_C",
+        "Thermal_Delta_C",
+        "Door_Open_Total_Mins",
+        "Door_Open_Per_100KM",
+        "Compressor_Run_Hours",
+        "Compressor_Vibration_RMS",
+        "Compressor_Stress_Index",
+        "Insulation_Seal_Score",
+        "Cargo_Fresh Dairy & Perishables",
+        "Cargo_Frozen Foods & Confectionery",
+        "Cargo_Pasteurized Keg Beer / Premium Lager",
+        "Cargo_Pharma Biologics & Vaccines",
+        "Route_Cross-Country",
+        "Route_Long Haul",
+        "Route_Mid Haul",
+        "Route_Short Haul"
+    ],
+    "feature_importances": {
+        "Thermal_Excursion_Minutes": 0.4232,
+        "Reefer_Max_Internal_Temp_C": 0.1574,
+        "Door_Open_Total_Mins": 0.1073,
+        "Insulation_Seal_Score": 0.1005,
+        "Door_Open_Per_100KM": 0.0303,
+        "Mean_Kinetic_Temp_C": 0.0299,
+        "Compressor_Vibration_RMS": 0.0285,
+        "Compressor_Stress_Index": 0.0224,
+        "Ambient_Peak_Temp_C": 0.0203,
+        "Reefer_Internal_Temp_C": 0.0199,
+        "Cargo_Pasteurized Keg Beer / Premium Lager": 0.0175,
+        "Thermal_Delta_C": 0.0159,
+        "Compressor_Run_Hours": 0.0098,
+        "Cargo_Fresh Dairy & Perishables": 0.0089,
+        "Cargo_Pharma Biologics & Vaccines": 0.0073,
+        "Route_Long Haul": 0.0003,
+        "Route_Mid Haul": 0.0002,
+        "Route_Short Haul": 0.0002,
+        "Cargo_Frozen Foods & Confectionery": 0.0,
+        "Route_Cross-Country": 0.0
+    }
+}

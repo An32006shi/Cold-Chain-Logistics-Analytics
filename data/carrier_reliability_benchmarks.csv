@@ -1,0 +1,5 @@
+Carrier_Name,Total_Dispatched,Perfect_Quality_Deliveries,Degraded_Deliveries,OTIF_Quality_Compliance_Pct,Avg_Excursion_Mins,Avg_Compressor_Vibration,Avg_Seal_Integrity,Cumulative_Cargo_Loss_USD,Quality_Rank
+PolarTrans Logistics,276,237,39,85.87,62.8,0.561,82.8,2440119.91,1
+ArcticLogistics Global,276,228,48,82.61,63.6,0.561,80.1,2958160.55,2
+ColdFleet Express,329,267,62,81.16,65.8,0.543,80.3,4482772.41,3
+ThermoHaul Freight,319,250,69,78.37,69.3,0.577,80.3,5315448.15,4
